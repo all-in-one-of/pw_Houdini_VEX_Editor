@@ -228,3 +228,5 @@ Once you add the new arguments and click Apply in the Type Properties, Houdini r
  ------------------------------------------------
 
 I really hope that this tool is useful to you in your work. Ideas for new chips and error messages as usual to send paulwinex@gmail.com.
+
+### Thanks to lubitel for translation http://lubitel.no/
